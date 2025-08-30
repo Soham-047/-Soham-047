@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently exploring **Data Analysis, Django, REST APIs, and full-stack development**  
+- 🌱 Currently exploring **Data Analysis, Django, REST APIs, Clouds, and full-stack development**  
 - 💡 Interested in **system design, DevOps, and cloud technologies**  
 - 🛠️ I enjoy working with **Python, JavaScript, C++, and databases**  
 - 📚 Always open to collaborating on **exciting projects**  
