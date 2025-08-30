@@ -18,6 +18,22 @@
 
 ---
 
+## 💼 Work Experience  
+
+### 📍 **Data Analyst Intern**  
+**GAIL (India) Limited (Remote)** | *August 2025 – Present*  
+- Analyzing datasets & preparing reports for data-driven decision-making  
+- Automating workflows using **Python, Pandas & SQL**  
+- Developing dashboards & visualizations for insights  
+
+### 📍 **Software Intern**  
+**Radixlink India Pvt. Ltd. (Remote)** | *Jan 2025 – July 2025*  
+- Built and tested backend features using **Django & REST APIs**  
+- Worked on database design and query optimization  
+- Contributed to frontend integration with React  
+
+---
+
 ## 🛠️ Tech Stack  
 
 **Languages:**  
@@ -42,7 +58,9 @@
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham-047&show_icons=true&theme=tokyonight)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-047&layout=compact&theme=tokyonight)  
 
 ---
-## ~GitHub Streak 
+
+## 🔥 GitHub Streak  
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Soham-047&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)  
 
 ---
@@ -53,6 +71,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamrajchopra@gmail.com)  
 
 ---
-
 
 ⭐️ From [Soham 🤠](https://github.com/Soham-047)
