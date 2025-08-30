@@ -1,11 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Banner.png" alt="Banner" width="100%" />
-</p>
-
-<!-- Profile Pic -->
-<p align="center">
-  <img src="profile.jpg" alt="Soham Raj Chopra" width="200" style="border-radius:50%" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
 # Hi there 👋, I'm Soham Raj Chopra  
