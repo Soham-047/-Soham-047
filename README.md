@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
+  <img src="Banner.png" alt="Banner" width="100%" />
 </p>
 
 <!-- Profile Pic -->
