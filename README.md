@@ -40,10 +40,10 @@
 `Python` | `C++` | `JavaScript` | `SQL`  
 
 **Frameworks & Tools:**  
-`Django` | `DRF` | `React` | `Node.js` | `Express` | `Tailwind`  
+`Django` | `DRF` | `Celery` | `Redis` | `` | `Tailwind`  
 
 **Data Analysis & Visualization:**  
-`Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Jupyter Notebook` | `Excel`  
+`Pandas` | `NumPy` | `Matplotlib` | `Scikit` | `Jupyter Notebook` | `Excel`  
 
 **Databases:**  
 `PostgreSQL` | `MySQL` | `MongoDB` | `Redis`  
